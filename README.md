@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Deva0604/Deva0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### LeetCode Progress
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=B68eB67A8T&theme=dark&font=baloo)
+
+*📊 My Coding Journey:*
+- Solving problems daily
+- Improving algorithm skills
+- Preparing for technical interviews
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/B68eB67A8T/)
